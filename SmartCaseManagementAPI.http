@@ -1,0 +1,6 @@
+@SmartCaseManagementAPI_HostAddress = http://localhost:5036
+
+GET {{SmartCaseManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
